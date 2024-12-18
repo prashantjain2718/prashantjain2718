@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjain2718&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjain2718" /> </p>
 
-- 🔭 I’m currently working on **Building and Ed-Tech**
+- 🔭 I’m currently working on **Building an Ed-Tech**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/pj.code](https://linktr.ee/pj.code)
 
