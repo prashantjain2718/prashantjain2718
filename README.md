@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building an Ed-Tech**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/pj.code](https://linktr.ee/pj.code)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://prashantjain2718.github.io/My-Portfolio/)
 
 - 📫 How to reach me **prashantjain.code@gmail.com**
 
