@@ -1,4 +1,4 @@
-### Hi there, I'm Prashant Jain! 👋
+### Hi there, I'm **Prashant Jain**! 👋
 #### Aspiring Software Developer | Passionate About Technology & Innovation 🚀
 
 <p align="left">
@@ -8,10 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Building an Ed-Tech Platform**
-- 💡 Passionate about **AI, Web Development, and Problem Solving**
-- 🎯 Skilled in **C++, Python, and Full-Stack Development**
-- 🌍 Open to collaborations, hackathons, and exciting projects
+- 🔭 Currently developing **an innovative Ed-Tech Platform** to enhance learning accessibility.
+- 💡 Passionate about **AI-driven solutions, Web Development, and complex problem-solving**.
+- 🎯 Skilled in **C++, Python, JavaScript, and Full-Stack Development**.
+- 🌍 Open to **collaborations, hackathons, and impactful projects**.
+- 🚀 Love exploring **cutting-edge technologies** and pushing creative boundaries.
 - ⚡ Fun Fact: **I turn caffeine into code! ☕💻**
 
 📌 **Portfolio:** [My Portfolio](https://prashantjain2718.github.io/My-Portfolio/)  
@@ -72,10 +73,3 @@
 ---
 
 ### 🚀 Let's Build Something Awesome Together!
-
-🏆 **Achievements & Badges**
-<p align="left">
-  <img src="https://img.shields.io/badge/Leetcode-Top%20Rank-orange" alt="Leetcode Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Master-green" alt="GitHub Master"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" alt="Open Source Contributor"/>
-</p>
