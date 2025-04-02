@@ -1,4 +1,4 @@
-### Hi there, I'm **Prashant Jain**! 👋
+### Hi there, I'm **<span style="color:#FFD700; font-weight:bold;">Prashant Jain</span>**! 👋
 #### Aspiring Software Developer | Passionate About Technology & Innovation 🚀
 
 <p align="left">
@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently developing **an innovative Ed-Tech Platform** to enhance learning accessibility.
-- 💡 Passionate about **AI-driven solutions, Web Development, and complex problem-solving**.
-- 🎯 Skilled in **C++, Python, JavaScript, and Full-Stack Development**.
-- 🌍 Open to **collaborations, hackathons, and impactful projects**.
-- 🚀 Love exploring **cutting-edge technologies** and pushing creative boundaries.
-- ⚡ Fun Fact: **I turn caffeine into code! ☕💻**
+- 💡 Passionate about **AI-driven solutions, Web Development, and Full-Stack Development**.
+- 🎯 Strong problem-solving skills with proficiency in **C++, Python, JavaScript, and MERN Stack**.
+- 🌍 Love participating in **hackathons, coding challenges, and open-source projects**.
+- 🚀 Always eager to **explore new technologies and create impactful software solutions**.
+- ⚡ Fun Fact: **I believe debugging is just solving a mystery where you are the culprit! 🕵️‍♂️🐞**
 
 📌 **Portfolio:** [My Portfolio](https://prashantjain2718.github.io/My-Portfolio/)  
 📩 **Reach Me At:** prashantjain.code@gmail.com
@@ -53,21 +53,20 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
+### 📊 GitHub Stats & Analytics:
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=dark&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+### 🏆 Badges & Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&margin-w=15&column=6" alt="GitHub Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 ---
