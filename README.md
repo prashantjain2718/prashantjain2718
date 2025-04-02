@@ -9,18 +9,18 @@
 
 ### 🏆 Badges & Achievements:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&margin-w=15&column=6" alt="GitHub Trophy" width="80%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=github_dark" alt="GitHub Profile Summary" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&margin-w=15&column=6" alt="GitHub Trophy" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=github_dark" alt="GitHub Profile Summary" width="100%"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Analytics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=dark" alt="GitHub Streak" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="45%"/>
-  <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=dark&ext=contest" alt="LeetCode Stats" width="45%"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=dark" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=dark&ext=contest" alt="LeetCode Stats" width="48%"/>
 </div>
 
 ---
