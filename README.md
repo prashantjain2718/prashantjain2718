@@ -18,8 +18,9 @@
 ### 📊 GitHub Stats & Analytics:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=dark" alt="GitHub Streak" width="48%"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="48%"/>
+  <br>
   <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=dark&ext=contest" alt="LeetCode Stats" width="48%"/>
 </div>
 
