@@ -9,57 +9,53 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/prashant-jain72">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=30" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=35" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:prashantjain.code@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=30" />
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=35" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/prashantjain2718">
-      <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white&height=30" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white&height=35" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🏆 **Achievements Unlocked**
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-</div>
-
----
-
-<div align="center"> 
-
 ### ⚡ **Tech Stack & Arsenal**
 
-| **Core** | **Frontend** | **Backend & AI** | **Tools** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,python,c" width="85"/> | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" width="85"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow" width="85"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" width="85"/> |
+<div align="center">
+  | **Core** | **Frontend** | **Backend & AI** | **Tools** |
+  | :---: | :---: | :---: | :---: |
+  | <img src="https://skillicons.dev/icons?i=cpp,python,c" width="90"/> | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" width="90"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow" width="90"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" width="90"/> |
 
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **GitHub Analytics (The "Crazy" Dashboard)**
 
 <div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-![Prashant's Stats](https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+  <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Prashant's Stats" />
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true&background=0d1117)
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantjain2718&theme=tokyonight&utcOffset=5.5" width="45%" />
 
 </div>
 
 ---
 
-### 📂 **Featured "Crazy" Projects**
+### 📂 **Featured Projects**
 
 | **🤖 Sampark Setu** | **🌿 EcoNova** |
 | :--- | :--- |
