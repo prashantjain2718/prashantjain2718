@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Prashant%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=60" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Prashant%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Full%20Stack%20Dev&descAlignY=55" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=700&lines=Building+Next-Gen+AI+Solutions;Crafting+Scalable+Web+Applications;Solving+Complex+Data+Mysteries;Debugging+until+it+works!+🕵️‍♂️" alt="Typing SVG" />
@@ -35,14 +35,13 @@
 ### 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantjain2718&theme=tokyonight&utcOffset=5.5" width="45%" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantjain2718&theme=tokyonight" width="100%"/>
+  <br/>
   
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantjain2718&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantjain2718&theme=tokyonight" width="45%" />
 </div>
 
 ---
