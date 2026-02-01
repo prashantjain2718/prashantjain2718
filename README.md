@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Prashant+Jain;AI+%26+Data+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Prashant+Jain;AI+%26+Data+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
   ### 🚀 Aspiring Software Engineer | AI & Data Science | Full Stack Developer
 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Pre-final year Engineering Student** specializing in **Artificial Intelligence & Data Science** at Arya College of Engineering and IT. I bridge the gap between complex AI logic and user-friendly web interfaces.
+I am a **Second Year Engineering Student** specializing in **Artificial Intelligence & Data Science** at Arya College of Engineering and IT. I bridge the gap between complex AI logic and user-friendly web interfaces.
 
 - 🔭 I’m currently working on **Sampark Setu**, an AI-driven civic issue detection platform.
 - 💡 My tech stack focuses on **C++, React.js, Node.js, and Gemini API**.
@@ -77,14 +77,11 @@ I am a **Pre-final year Engineering Student** specializing in **Artificial Intel
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
 
-<br>
+![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" alt="streak stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&layout=compact&theme=radical)
+
 </div>
 
 ---
