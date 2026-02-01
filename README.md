@@ -35,13 +35,14 @@
 ### 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantjain2718&theme=tokyonight&utcOffset=5.5" width="45%" />
   
-  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantjain2718&theme=tokyonight" width="100%"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantjain2718&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantjain2718&theme=tokyonight" width="45%" />
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
 </div>
 
 ---
