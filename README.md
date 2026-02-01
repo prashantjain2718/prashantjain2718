@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=320&section=header&text=Prashant%20Jain&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20⚡%20Full%20Stack%20Dev%20⚡%20Problem%20Solver&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=300&section=header&text=Prashant%20Jain&fontSize=88&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20⚡%20Full%20Stack%20Developer%20⚡%20Innovator&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=00F2EA&center=true&vCenter=true&width=800&lines=Turning+Coffee+Into+Code;AI+That+Actually+Works;Full+Stack+With+Full+Impact;Debugging+The+Matrix" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00F2EA&center=true&vCenter=true&width=780&lines=Turning+Ideas+Into+Systems;AI+With+Real+World+Impact;Full+Stack+That+Scales;Debugging+Life+One+Bug+At+A+Time" />
 
 <br/>
 
@@ -11,41 +11,42 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/prashant-jain72">
-<img src="https://img.shields.io/badge/LinkedIn-00F2EA?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img src="https://img.shields.io/badge/LinkedIn-00F2EA?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a href="mailto:prashantjain.code@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/prashantjain2718">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2EA" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2EA" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 WHO AM I?
+## 🧠 About Me
 
-- ⚡ AI Engineer who builds **systems**, not demos  
-- ⚡ Full Stack Developer who **ships**, not abandons  
-- ⚡ DSA grinder with **clean logic & efficiency**  
-- ⚡ Obsessed with **scale, performance & impact**
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+- ⚡ AI Engineer focused on **practical, scalable systems**
+- ⚡ Full Stack Developer who **ships production-ready code**
+- ⚡ Strong foundation in **DSA & core CS**
+- ⚡ Obsessed with **performance, clarity & impact**
 
 ---
 
-## ⚙️ TECH ARSENAL
+## 🏆 Achievements
 
-<div align="center">
+- 🚀 Built **AI-powered** and **full-stack** real-world projects  
+- 🧠 Strong problem-solving & data-structure skills  
+- 🛠️ Active GitHub contributor with consistent commits  
+- 📈 Projects focused on **usability, scalability & results**
 
-### 🧩 Core
+> *(This section is intentionally image-free for 100% reliability.)*
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Core Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,c&theme=dark" />
 
 ### 🎨 Frontend
@@ -57,40 +58,38 @@
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 
-</div>
-
 ---
 
-## 📊 STATS
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=radical&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true" height="180" />
 
 </div>
 
+> *(Only two stat cards used to avoid GitHub rate-limit issues.)*
+
 ---
 
-## 🚀 PROJECTS
+## 🚀 Featured Projects
 
 | 🤖 **Sampark Setu** | 🌱 **EcoNova** |
 |------------------|--------------|
-| AI-powered civic issue detection using Gemini API. | Gamified environmental platform with +40% engagement. |
+| **Tech:** React, Node.js, Gemini API | **Tech:** HTML, CSS, JavaScript |
+| AI-powered civic issue detection platform that analyzes and categorizes complaints automatically for faster municipal action. | Gamified environmental education platform that improved engagement by **40%** with a scalable modular design. |
 
 ---
 
-## 🔥 ACTIVITY
+## 💡 Philosophy
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantjain2718&theme=react-dark&hide_border=true" />
+> **“Code should be simple, readable, and brutally effective.”**  
+> **“If it doesn’t scale or solve a real problem — rewrite it.”**
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=130&section=footer" width="100%" />
 </div>
