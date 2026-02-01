@@ -1,40 +1,89 @@
-<div align="center">
+# PRASHANT JAIN
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=320&section=header&text=Prashant%20Jain&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20⚡%20Full%20Stack%20Developer%20⚡%20Innovator&descAlignY=55"
-  width="100%"
-/>
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00F2EA&center=true&vCenter=true&width=820&lines=Building+Systems+That+Scale;AI+With+Real-World+Impact;Clean+Code+%7C+Strong+Logic;Turning+Ideas+Into+Products"
-/>
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=prashantjain2718&style=for-the-badge&color=00f2ea"
-/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/prashant-jain72">
-  <img src="https://img.shields.io/badge/LinkedIn-00F2EA?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="mailto:prashantjain.code@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/prashantjain2718">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2EA" />
-</a>
-
-</div>
+**AI Engineer | Full Stack Developer | System Builder**
 
 ---
 
-## 🧠 About Me
+## ⚡ TL;DR
 
-```txt
-AI Engineer focused on practical systems
-Full Stack Developer who ships production code
-Strong DSA + CS fundamentals
-Obsessed with performance, clarity, and impact
+- Build real systems, not demos  
+- Ship end-to-end applications  
+- Strong logic, clean structure, zero fluff  
+- Focused on performance and impact  
+
+---
+
+## 🧠 WHAT I DO
+
+- Design before coding  
+- Write clean, maintainable logic  
+- Build scalable full-stack products  
+- Apply AI where it actually makes sense  
+
+---
+
+## 🧪 TECH STACK
+
+### Languages
+C++, Python, C
+
+### Frontend
+React, JavaScript, HTML, CSS, Tailwind
+
+### Backend / AI
+Node.js, Express, MongoDB, TensorFlow
+
+### Tools
+Git, GitHub, Linux, VS Code, Postman
+
+---
+
+## 🚀 PROJECTS
+
+### Sampark Setu
+AI-powered civic issue detection platform.
+
+- Analyzes public complaints using AI APIs  
+- Auto-categorizes and prioritizes issues  
+- Designed for real municipal workflows  
+
+**Stack:** React, Node.js, AI APIs
+
+---
+
+### EcoNova
+Gamified environmental education platform.
+
+- Increased engagement by ~40%  
+- Clean, modular frontend architecture  
+- Built for scalability  
+
+**Stack:** HTML, CSS, JavaScript
+
+---
+
+## 🧩 HOW I THINK
+
+- If it’s slow → optimize it  
+- If it’s messy → refactor it  
+- If it’s useless → delete it  
+
+---
+
+## 🎯 WHAT I WANT
+
+- Serious engineering problems  
+- Teams that value clean thinking  
+- Products that actually matter  
+
+---
+
+## 📫 CONTACT
+
+- **LinkedIn:** https://linkedin.com/in/prashant-jain72  
+- **Email:** prashantjain.code@gmail.com  
+- **GitHub:** https://github.com/prashantjain2718  
+
+---
+
+**Built to last. Not built to flex.**
