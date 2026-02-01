@@ -27,40 +27,35 @@
 ### ⚡ **Tech Stack & Arsenal**
 
 <div align="center">
-  | **Core** | **Frontend** | **Backend & AI** | **Tools** |
-  | :---: | :---: | :---: | :---: |
-  | <img src="https://skillicons.dev/icons?i=cpp,python,c" width="90"/> | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" width="90"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow" width="90"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" width="90"/> |
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,react,html,css,js,tailwind,nodejs,express,mongodb,tensorflow,git,github,vscode,linux,postman" />
 </div>
 
 ---
 
-### 📊 **GitHub Analytics (The "Crazy" Dashboard)**
+### 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Prashant's Stats" />
-
-  <br/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=tokyonight" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prashantjain2718&theme=tokyonight&utcOffset=5.5" width="45%" />
-
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantjain2718&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantjain2718&theme=tokyonight" width="45%" />
 </div>
 
 ---
 
 ### 📂 **Featured Projects**
 
+<div align="center">
+
 | **🤖 Sampark Setu** | **🌿 EcoNova** |
 | :--- | :--- |
 | **Tech:** `React` `Node.js` `Gemini API` | **Tech:** `JS` `HTML/CSS` `Gamification` |
 | An AI-powered civic issue detection platform. It uses **Google's Gemini API** to analyze reports and automatically categorize them for municipal workers. | A gamified environmental education platform that increased user engagement by **40%**. Built with a modular architecture for scalability. |
+
+</div>
 
 ---
 
