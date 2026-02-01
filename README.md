@@ -1,21 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=300&section=header&text=Prashant%20Jain&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Innovator&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Prashant%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=60" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=700&lines=Coding+the+Future+with+AI;Building+Scalable+Web+Apps;Mastering+Data+Structures;Solving+Mysteries+(Debugging!)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=700&lines=Building+Next-Gen+AI+Solutions;Crafting+Scalable+Web+Applications;Solving+Complex+Data+Mysteries;Debugging+until+it+works!+🕵️‍♂️" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="https://linkedin.com/in/prashant-jain72">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=30" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:prashantjain.code@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=30" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/prashantjain2718">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white&height=30" />
     </a>
   </p>
 </div>
@@ -37,23 +39,22 @@
 
 | **Core** | **Frontend** | **Backend & AI** | **Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,python,c" width="50"/> | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" width="50"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=cpp,python,c" width="85"/> | <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" width="85"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow" width="85"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" width="85"/> |
 
 </div>
 
 ---
 
-### 📊 **The Numbers (GitHub Stats)**
+### 📊 **GitHub Analytics**
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Prashant's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats" />
+
+![Prashant's Stats](https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjain2718&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true&background=0d1117)
+
 </div>
 
 ---
