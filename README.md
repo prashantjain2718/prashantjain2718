@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=300&section=header&text=Prashant%20Jain&fontSize=88&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20⚡%20Full%20Stack%20Developer%20⚡%20Innovator&descAlignY=55" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=300&section=header&text=Prashant%20Jain&fontSize=88&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20⚡%20Full%20Stack%20Developer%20⚡%20Innovator&descAlignY=55"
+  width="100%"
+/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00F2EA&center=true&vCenter=true&width=780&lines=Turning+Ideas+Into+Systems;AI+With+Real+World+Impact;Full+Stack+That+Scales;Debugging+Life+One+Bug+At+A+Time" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=00F2EA&center=true&vCenter=true&width=780&lines=Turning+Ideas+Into+Systems;AI+With+Real+World+Impact;Full+Stack+That+Scales;Debugging+Life+One+Bug+At+A+Time"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prashantjain2718&style=for-the-badge&color=00f2ea" />
+<img
+  src="https://komarev.com/ghpvc/?username=prashantjain2718&style=for-the-badge&color=00f2ea"
+/>
 
 <br/><br/>
 
@@ -29,7 +36,7 @@
 - ⚡ AI Engineer focused on **practical, scalable systems**
 - ⚡ Full Stack Developer who **ships production-ready code**
 - ⚡ Strong foundation in **DSA & core CS**
-- ⚡ Obsessed with **performance, clarity & impact**
+- ⚡ Obsessed with **performance, clarity & real impact**
 
 ---
 
@@ -38,9 +45,9 @@
 - 🚀 Built **AI-powered** and **full-stack** real-world projects  
 - 🧠 Strong problem-solving & data-structure skills  
 - 🛠️ Active GitHub contributor with consistent commits  
-- 📈 Projects focused on **usability, scalability & results**
+- 📈 Projects designed for **usability, scalability & results**
 
-> *(This section is intentionally image-free for 100% reliability.)*
+*(Image-free by design to avoid GitHub failures.)*
 
 ---
 
@@ -64,13 +71,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=radical&hide_border=true" height="180" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+  height="180"
+/>
 
 </div>
 
-> *(Only two stat cards used to avoid GitHub rate-limit issues.)*
+*(Single provider + caching = zero broken images.)*
 
 ---
 
@@ -79,7 +87,7 @@
 | 🤖 **Sampark Setu** | 🌱 **EcoNova** |
 |------------------|--------------|
 | **Tech:** React, Node.js, Gemini API | **Tech:** HTML, CSS, JavaScript |
-| AI-powered civic issue detection platform that analyzes and categorizes complaints automatically for faster municipal action. | Gamified environmental education platform that improved engagement by **40%** with a scalable modular design. |
+| AI-powered civic issue detection platform that automatically analyzes and categorizes complaints for faster municipal action. | Gamified environmental education platform that increased engagement by **40%** using a scalable modular design. |
 
 ---
 
@@ -91,5 +99,10 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=130&section=footer" width="100%" />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=130&section=footer"
+  width="100%"
+/>
+
 </div>
