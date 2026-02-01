@@ -1,5 +1,9 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Prashant%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Full%20Stack%20Dev&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Prashant%20Jain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Full%20Stack%20Dev&descAlignY=55" width="100%" />
+
+  <img src="https://komarev.com/ghpvc/?username=prashantjain2718&label=Profile%20Views&color=00f2ea&style=flat" alt="Profile Views" />
+
+  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=700&lines=Building+Next-Gen+AI+Solutions;Crafting+Scalable+Web+Applications;Solving+Complex+Data+Mysteries;Debugging+until+it+works!+🕵️‍♂️" alt="Typing SVG" />
@@ -24,10 +28,37 @@
 
 ---
 
+### 👨‍💻 **About Me**
+
+<div align="center">
+  <p>
+    <em>"I don't just write code; I engineer intelligent solutions."</em>
+  </p>
+  <p>
+    I am a <strong>sophomore at Arya College of Engineering</strong>, deep-diving into the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Engineering</strong>. My passion lies in bridging the gap between complex algorithms and intuitive user experiences.
+  </p>
+</div>
+
+<div align="center">
+  🔭 <strong>Current Focus:</strong> Architecting AI-driven civic governance platforms.<br/>
+  🌱 <strong>Learning:</strong> Advanced Data Structures, System Design, & Linux Internals.<br/>
+  ⚡ <strong>Philosophy:</strong> <em>"First, solve the problem. Then, write the code."</em>
+</div>
+
+---
+
 ### ⚡ **Tech Stack & Arsenal**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,react,html,css,js,tailwind,nodejs,express,mongodb,tensorflow,git,github,vscode,linux,postman" />
+</div>
+
+---
+
+### 🧩 **Coding Profile**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=tokyonight&font=Orbitron&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -52,12 +83,16 @@
 
 | **🤖 Sampark Setu** | **🌿 EcoNova** |
 | :--- | :--- |
-| **Tech:** `React` `Node.js` `Gemini API` | **Tech:** `JS` `HTML/CSS` `Gamification` |
-| An AI-powered civic issue detection platform. It uses **Google's Gemini API** to analyze reports and automatically categorize them for municipal workers. | A gamified environmental education platform that increased user engagement by **40%**. Built with a modular architecture for scalability. |
+| **Stack:** `React` `Node.js` `Gemini API` | **Stack:** `JS` `HTML/CSS` `Gamification` |
+| A smart civic governance system powered by **Gen-AI**. It utilizes **Google's Gemini API** to automate issue classification, enabling real-time grievance redressal for municipal authorities. | An interactive platform designed to gamify sustainability. Achieved a **40% boost in user engagement** through immersive quizzes and a modular, scalable frontend architecture. |
 
 </div>
 
 ---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=100&section=footer" width="100%" />
