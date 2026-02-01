@@ -1,75 +1,106 @@
-### Hi there, I'm **<span style="color:#FFD700; font-weight:bold; font-size:36px;">Prashant Jain</span>**! 👋
-#### <span style="font-size:24px;">Aspiring Software Developer | Passionate About Technology & Innovation 🚀</span>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Prashant+Jain;AI+%26+Data+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prashantjain2718&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  ### 🚀 Aspiring Software Engineer | AI & Data Science | Full Stack Developer
 
----
-
-### 🏆 Badges & Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantjain2718&theme=radical&margin-w=15&column=6" alt="GitHub Trophy" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantjain2718&theme=github_dark" alt="GitHub Profile Summary" width="100%"/>
-</p>
-
----
-
-### 📊 GitHub Stats & Analytics:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="48%"/>
-  <br>
-  <img src="https://leetcard.jacoblin.cool/prashantjain3105?theme=dark&ext=contest" alt="LeetCode Stats" width="48%"/>
+  <p align="center">
+    <a href="https://github.com/prashantjain2718">
+      <img src="https://komarev.com/ghpvc/?username=prashantjain2718&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+    <a href="https://linkedin.com/in/prashant-jain72">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:prashantjain.code@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently developing **an innovative Ed-Tech Platform** to enhance learning accessibility.
-- 💡 Passionate about **AI-driven solutions, Web Development, and Full-Stack Development**.
-- 🎯 Strong problem-solving skills with proficiency in **C++, Python, JavaScript, and MERN Stack**.
-- 🌍 Love participating in **hackathons, coding challenges, and open-source projects**.
-- 🚀 Always eager to **explore new technologies and create impactful software solutions**.
-- ⚡ Fun Fact: **I believe debugging is just solving a mystery where you are the culprit! 🕵️‍♂️🐞**
 
-📌 **Portfolio:** [My Portfolio](https://prashantjain2718.github.io/My-Portfolio/)  
-📩 **Reach Me At:** prashantjain.code@gmail.com
+I am a **Pre-final year Engineering Student** specializing in **Artificial Intelligence & Data Science** at Arya College of Engineering and IT. I bridge the gap between complex AI logic and user-friendly web interfaces.
+
+- 🔭 I’m currently working on **Sampark Setu**, an AI-driven civic issue detection platform.
+- 💡 My tech stack focuses on **C++, React.js, Node.js, and Gemini API**.
+- 🏆 **Hackathon Veteran:** Participant in Rajasthan DigiFest, Smart India Hackathon, and ISRO Bharatiya Antariksh Hackathon.
+- ⚡ **Fun Fact:** I believe debugging is just solving a mystery where you are both the detective and the culprit! 🕵️‍♂️
 
 ---
 
-### 📬 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/prashant-jain72" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60"/>
-  </a>
-  <a href="https://instagram.com/pj.code" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60"/>
-  </a>
-  <a href="https://www.leetcode.com/prashantjain3105" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60"/>
-  </a>
-</p>
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white) |
+| **Full Stack** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 📂 Top Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Sampark Setu</h3>
+      <p align="center"><strong>AI Civic Issue Platform</strong></p>
+      <p>A unified grievance redressal platform utilizing <strong>Gemini API</strong> to analyze user-submitted reports and categorize civic issues using AI-driven text processing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-blue" />
+        <img src="https://img.shields.io/badge/Node.js-green" />
+        <img src="https://img.shields.io/badge/Gemini_AI-purple" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌿 EcoNova</h3>
+      <p align="center"><strong>Gamified Environmental Education</strong></p>
+      <p>An interactive platform increasing user engagement by 40% through gamification. Features a modular frontend architecture for scalable content updates.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-yellow" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-orange" />
+        <img src="https://img.shields.io/badge/Gamification-pink" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantjain2718&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantjain2718&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjain2718&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+---
+
+### 🏆 Achievements & Hackathons
+
+- **Rajasthan DigiFest x TiE Global Hackathon (Dec 2025)** - Participant
+- **Smart India Hackathon (Internal)** - Selected for Internal Round
+- **NPTEL Silver Elite** - Data Structures & Algorithms
+- **AceHack 4.0** - Participant
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+  Let's connect and build something amazing! 🚀 <br>
+  <a href="https://linkedin.com/in/prashant-jain72">LinkedIn</a> • 
+  <a href="https://leetcode.com/prashantjain3105">LeetCode</a> • 
+  <a href="mailto:prashantjain.code@gmail.com">Email</a>
 </p>
-
----
-
-### 🚀 Let's Build Something Awesome Together!
